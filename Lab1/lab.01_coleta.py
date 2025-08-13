@@ -56,3 +56,27 @@ while len(all_repos) < TOTAL_REPOS:
       }}
     }}
     """
+
+    response = requests.post(API_URL, headers=headers, data=json.dumps({"query": query}))
+    response.raise_for_status()
+    result = response.json()
+
+    edges = result["data"]["search"]["edges"]
+    all_repos.extend(edges)
+
+    page_info = result["data"]["search"]["pageInfo"]
+    after_cursor = page_info["endCursor"]
+
+    if not page_info["hasNextPage"]:
+        break
+
+    time.sleep(1)  # Pausa curta para não sobrecarregar a API
+
+# Limita exatamente a 100 repositórios
+all_repos = all_repos[:TOTAL_REPOS]
+
+# Salva o resultado final
+with open("lab01_data.json", "w", encoding="utf-8") as f:
+    json.dump({"data": {"search": {"edges": all_repos}}}, f, indent=4, ensure_ascii=False)
+
+print(f"✅ {len(all_repos)} repositórios coletados e salvos em 'lab01_data.json' com sucesso!")
