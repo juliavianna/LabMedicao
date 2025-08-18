@@ -1,0 +1,2180 @@
+{
+    "data": {
+        "search": {
+            "edges": [
+                {
+                    "node": {
+                        "nameWithOwner": "freeCodeCamp/freeCodeCamp",
+                        "createdAt": "2014-12-24T17:49:19Z",
+                        "pushedAt": "2025-08-13T15:59:27Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 25684
+                        },
+                        "closedIssues": {
+                            "totalCount": 19608
+                        },
+                        "openIssues": {
+                            "totalCount": 191
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "codecrafters-io/build-your-own-x",
+                        "createdAt": "2018-05-09T12:03:18Z",
+                        "pushedAt": "2025-07-29T21:02:41Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Markdown"
+                        },
+                        "pullRequests": {
+                            "totalCount": 142
+                        },
+                        "closedIssues": {
+                            "totalCount": 594
+                        },
+                        "openIssues": {
+                            "totalCount": 221
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "sindresorhus/awesome",
+                        "createdAt": "2014-07-11T13:42:37Z",
+                        "pushedAt": "2025-07-18T18:37:33Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 679
+                        },
+                        "closedIssues": {
+                            "totalCount": 340
+                        },
+                        "openIssues": {
+                            "totalCount": 14
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "EbookFoundation/free-programming-books",
+                        "createdAt": "2013-10-11T06:50:37Z",
+                        "pushedAt": "2025-08-09T10:39:09Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 6818
+                        },
+                        "closedIssues": {
+                            "totalCount": 1150
+                        },
+                        "openIssues": {
+                            "totalCount": 31
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "public-apis/public-apis",
+                        "createdAt": "2016-03-20T23:49:42Z",
+                        "pushedAt": "2025-05-20T15:56:34Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 1872
+                        },
+                        "closedIssues": {
+                            "totalCount": 703
+                        },
+                        "openIssues": {
+                            "totalCount": 6
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "kamranahmedse/developer-roadmap",
+                        "createdAt": "2017-03-15T13:45:52Z",
+                        "pushedAt": "2025-08-13T14:34:07Z",
+                        "releases": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 3670
+                        },
+                        "closedIssues": {
+                            "totalCount": 2692
+                        },
+                        "openIssues": {
+                            "totalCount": 245
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "jwasham/coding-interview-university",
+                        "createdAt": "2016-06-06T02:34:12Z",
+                        "pushedAt": "2024-12-05T23:47:30Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 415
+                        },
+                        "closedIssues": {
+                            "totalCount": 453
+                        },
+                        "openIssues": {
+                            "totalCount": 63
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "donnemartin/system-design-primer",
+                        "createdAt": "2017-02-26T16:15:28Z",
+                        "pushedAt": "2025-05-21T11:13:33Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 200
+                        },
+                        "closedIssues": {
+                            "totalCount": 91
+                        },
+                        "openIssues": {
+                            "totalCount": 248
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "996icu/996.ICU",
+                        "createdAt": "2019-03-26T07:31:14Z",
+                        "pushedAt": "2024-10-03T12:29:12Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 1067
+                        },
+                        "closedIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "vinta/awesome-python",
+                        "createdAt": "2014-06-27T21:00:06Z",
+                        "pushedAt": "2025-07-17T16:35:51Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 544
+                        },
+                        "closedIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "awesome-selfhosted/awesome-selfhosted",
+                        "createdAt": "2015-06-01T02:33:17Z",
+                        "pushedAt": "2025-08-12T18:56:23Z",
+                        "releases": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 2394
+                        },
+                        "closedIssues": {
+                            "totalCount": 806
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "practical-tutorials/project-based-learning",
+                        "createdAt": "2017-04-12T05:07:46Z",
+                        "pushedAt": "2024-08-15T05:33:54Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 182
+                        },
+                        "closedIssues": {
+                            "totalCount": 79
+                        },
+                        "openIssues": {
+                            "totalCount": 130
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "facebook/react",
+                        "createdAt": "2013-05-24T16:15:54Z",
+                        "pushedAt": "2025-08-13T13:49:44Z",
+                        "releases": {
+                            "totalCount": 105
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 12088
+                        },
+                        "closedIssues": {
+                            "totalCount": 13182
+                        },
+                        "openIssues": {
+                            "totalCount": 801
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "vuejs/vue",
+                        "createdAt": "2013-07-29T03:24:51Z",
+                        "pushedAt": "2024-10-10T07:24:15Z",
+                        "releases": {
+                            "totalCount": 249
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 1133
+                        },
+                        "closedIssues": {
+                            "totalCount": 9673
+                        },
+                        "openIssues": {
+                            "totalCount": 355
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "TheAlgorithms/Python",
+                        "createdAt": "2016-07-16T09:44:01Z",
+                        "pushedAt": "2025-08-12T07:30:14Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 2975
+                        },
+                        "closedIssues": {
+                            "totalCount": 1511
+                        },
+                        "openIssues": {
+                            "totalCount": 74
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "torvalds/linux",
+                        "createdAt": "2011-09-04T22:48:12Z",
+                        "pushedAt": "2025-08-13T15:39:59Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "C"
+                        },
+                        "pullRequests": {
+                            "totalCount": 10
+                        },
+                        "closedIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "trekhleb/javascript-algorithms",
+                        "createdAt": "2018-03-24T07:47:04Z",
+                        "pushedAt": "2025-02-12T16:19:59Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 302
+                        },
+                        "closedIssues": {
+                            "totalCount": 229
+                        },
+                        "openIssues": {
+                            "totalCount": 137
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "tensorflow/tensorflow",
+                        "createdAt": "2015-11-07T01:19:20Z",
+                        "pushedAt": "2025-08-13T16:15:43Z",
+                        "releases": {
+                            "totalCount": 217
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "pullRequests": {
+                            "totalCount": 35706
+                        },
+                        "closedIssues": {
+                            "totalCount": 39830
+                        },
+                        "openIssues": {
+                            "totalCount": 884
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "ossu/computer-science",
+                        "createdAt": "2014-05-04T00:18:39Z",
+                        "pushedAt": "2025-07-17T02:38:25Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "HTML"
+                        },
+                        "pullRequests": {
+                            "totalCount": 298
+                        },
+                        "closedIssues": {
+                            "totalCount": 638
+                        },
+                        "openIssues": {
+                            "totalCount": 14
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "getify/You-Dont-Know-JS",
+                        "createdAt": "2013-11-16T02:37:24Z",
+                        "pushedAt": "2025-05-20T14:22:36Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 368
+                        },
+                        "closedIssues": {
+                            "totalCount": 863
+                        },
+                        "openIssues": {
+                            "totalCount": 81
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "trimstray/the-book-of-secret-knowledge",
+                        "createdAt": "2018-06-23T10:43:14Z",
+                        "pushedAt": "2024-11-19T14:00:38Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 122
+                        },
+                        "closedIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "CyC2018/CS-Notes",
+                        "createdAt": "2018-02-13T14:56:24Z",
+                        "pushedAt": "2024-08-21T09:40:10Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 374
+                        },
+                        "closedIssues": {
+                            "totalCount": 448
+                        },
+                        "openIssues": {
+                            "totalCount": 123
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "ohmyzsh/ohmyzsh",
+                        "createdAt": "2009-08-28T18:15:37Z",
+                        "pushedAt": "2025-08-13T08:14:21Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Shell"
+                        },
+                        "pullRequests": {
+                            "totalCount": 3371
+                        },
+                        "closedIssues": {
+                            "totalCount": 4819
+                        },
+                        "openIssues": {
+                            "totalCount": 140
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "Significant-Gravitas/AutoGPT",
+                        "createdAt": "2023-03-16T09:21:07Z",
+                        "pushedAt": "2025-08-13T15:38:59Z",
+                        "releases": {
+                            "totalCount": 67
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 3161
+                        },
+                        "closedIssues": {
+                            "totalCount": 3215
+                        },
+                        "openIssues": {
+                            "totalCount": 156
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "microsoft/vscode",
+                        "createdAt": "2015-09-03T20:23:38Z",
+                        "pushedAt": "2025-08-13T15:58:38Z",
+                        "releases": {
+                            "totalCount": 175
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 35973
+                        },
+                        "closedIssues": {
+                            "totalCount": 192368
+                        },
+                        "openIssues": {
+                            "totalCount": 12024
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "twbs/bootstrap",
+                        "createdAt": "2011-07-29T21:19:00Z",
+                        "pushedAt": "2025-08-12T19:39:56Z",
+                        "releases": {
+                            "totalCount": 93
+                        },
+                        "primaryLanguage": {
+                            "name": "MDX"
+                        },
+                        "pullRequests": {
+                            "totalCount": 8967
+                        },
+                        "closedIssues": {
+                            "totalCount": 22343
+                        },
+                        "openIssues": {
+                            "totalCount": 406
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "flutter/flutter",
+                        "createdAt": "2015-03-06T22:54:58Z",
+                        "pushedAt": "2025-08-13T16:14:39Z",
+                        "releases": {
+                            "totalCount": 7
+                        },
+                        "primaryLanguage": {
+                            "name": "Dart"
+                        },
+                        "pullRequests": {
+                            "totalCount": 43667
+                        },
+                        "closedIssues": {
+                            "totalCount": 96682
+                        },
+                        "openIssues": {
+                            "totalCount": 11894
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "jackfrued/Python-100-Days",
+                        "createdAt": "2018-03-01T16:05:52Z",
+                        "pushedAt": "2025-03-28T10:29:23Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Jupyter Notebook"
+                        },
+                        "pullRequests": {
+                            "totalCount": 13
+                        },
+                        "closedIssues": {
+                            "totalCount": 118
+                        },
+                        "openIssues": {
+                            "totalCount": 572
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "github/gitignore",
+                        "createdAt": "2010-11-08T20:17:14Z",
+                        "pushedAt": "2025-08-08T20:08:39Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 1713
+                        },
+                        "closedIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "jlevy/the-art-of-command-line",
+                        "createdAt": "2015-05-20T15:11:03Z",
+                        "pushedAt": "2024-06-25T18:13:44Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 317
+                        },
+                        "closedIssues": {
+                            "totalCount": 136
+                        },
+                        "openIssues": {
+                            "totalCount": 122
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "AUTOMATIC1111/stable-diffusion-webui",
+                        "createdAt": "2022-08-22T14:05:26Z",
+                        "pushedAt": "2025-05-03T06:17:03Z",
+                        "releases": {
+                            "totalCount": 27
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 1874
+                        },
+                        "closedIssues": {
+                            "totalCount": 5464
+                        },
+                        "openIssues": {
+                            "totalCount": 2362
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "Snailclimb/JavaGuide",
+                        "createdAt": "2018-05-07T13:27:00Z",
+                        "pushedAt": "2025-08-13T08:02:21Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Java"
+                        },
+                        "pullRequests": {
+                            "totalCount": 1179
+                        },
+                        "closedIssues": {
+                            "totalCount": 1031
+                        },
+                        "openIssues": {
+                            "totalCount": 72
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "ollama/ollama",
+                        "createdAt": "2023-06-26T19:39:32Z",
+                        "pushedAt": "2025-08-12T23:58:04Z",
+                        "releases": {
+                            "totalCount": 141
+                        },
+                        "primaryLanguage": {
+                            "name": "Go"
+                        },
+                        "pullRequests": {
+                            "totalCount": 2440
+                        },
+                        "closedIssues": {
+                            "totalCount": 6179
+                        },
+                        "openIssues": {
+                            "totalCount": 1729
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "avelino/awesome-go",
+                        "createdAt": "2014-07-06T13:42:15Z",
+                        "pushedAt": "2025-08-13T05:28:57Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Go"
+                        },
+                        "pullRequests": {
+                            "totalCount": 3455
+                        },
+                        "closedIssues": {
+                            "totalCount": 680
+                        },
+                        "openIssues": {
+                            "totalCount": 6
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "huggingface/transformers",
+                        "createdAt": "2018-10-29T13:56:00Z",
+                        "pushedAt": "2025-08-13T16:03:12Z",
+                        "releases": {
+                            "totalCount": 221
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 16529
+                        },
+                        "closedIssues": {
+                            "totalCount": 16676
+                        },
+                        "openIssues": {
+                            "totalCount": 1084
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "airbnb/javascript",
+                        "createdAt": "2012-11-01T23:13:50Z",
+                        "pushedAt": "2024-12-09T06:56:18Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 810
+                        },
+                        "closedIssues": {
+                            "totalCount": 1266
+                        },
+                        "openIssues": {
+                            "totalCount": 97
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "massgravel/Microsoft-Activation-Scripts",
+                        "createdAt": "2020-01-12T23:03:34Z",
+                        "pushedAt": "2025-08-10T21:18:38Z",
+                        "releases": {
+                            "totalCount": 24
+                        },
+                        "primaryLanguage": {
+                            "name": "Batchfile"
+                        },
+                        "pullRequests": {
+                            "totalCount": 6
+                        },
+                        "closedIssues": {
+                            "totalCount": 715
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "ytdl-org/youtube-dl",
+                        "createdAt": "2010-10-31T14:35:07Z",
+                        "pushedAt": "2025-05-04T11:53:05Z",
+                        "releases": {
+                            "totalCount": 341
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 1642
+                        },
+                        "closedIssues": {
+                            "totalCount": 23122
+                        },
+                        "openIssues": {
+                            "totalCount": 3643
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "vercel/next.js",
+                        "createdAt": "2016-10-05T23:32:51Z",
+                        "pushedAt": "2025-08-13T15:58:32Z",
+                        "releases": {
+                            "totalCount": 1000
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 23523
+                        },
+                        "closedIssues": {
+                            "totalCount": 20997
+                        },
+                        "openIssues": {
+                            "totalCount": 2330
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "f/awesome-chatgpt-prompts",
+                        "createdAt": "2022-12-05T13:54:13Z",
+                        "pushedAt": "2025-08-02T07:30:17Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 171
+                        },
+                        "closedIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "golang/go",
+                        "createdAt": "2014-08-19T04:33:40Z",
+                        "pushedAt": "2025-08-13T14:21:47Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Go"
+                        },
+                        "pullRequests": {
+                            "totalCount": 1
+                        },
+                        "closedIssues": {
+                            "totalCount": 58679
+                        },
+                        "openIssues": {
+                            "totalCount": 9161
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "n8n-io/n8n",
+                        "createdAt": "2019-06-22T09:24:21Z",
+                        "pushedAt": "2025-08-13T15:01:46Z",
+                        "releases": {
+                            "totalCount": 376
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 10500
+                        },
+                        "closedIssues": {
+                            "totalCount": 4404
+                        },
+                        "openIssues": {
+                            "totalCount": 585
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "labuladong/fucking-algorithm",
+                        "createdAt": "2020-02-19T09:01:23Z",
+                        "pushedAt": "2025-01-31T06:30:22Z",
+                        "releases": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "Markdown"
+                        },
+                        "pullRequests": {
+                            "totalCount": 238
+                        },
+                        "closedIssues": {
+                            "totalCount": 913
+                        },
+                        "openIssues": {
+                            "totalCount": 3
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "yangshun/tech-interview-handbook",
+                        "createdAt": "2016-07-05T05:00:48Z",
+                        "pushedAt": "2025-07-10T00:25:52Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 481
+                        },
+                        "closedIssues": {
+                            "totalCount": 74
+                        },
+                        "openIssues": {
+                            "totalCount": 41
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "Genymobile/scrcpy",
+                        "createdAt": "2017-11-21T18:00:27Z",
+                        "pushedAt": "2025-08-12T17:04:09Z",
+                        "releases": {
+                            "totalCount": 47
+                        },
+                        "primaryLanguage": {
+                            "name": "C"
+                        },
+                        "pullRequests": {
+                            "totalCount": 113
+                        },
+                        "closedIssues": {
+                            "totalCount": 3159
+                        },
+                        "openIssues": {
+                            "totalCount": 2448
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "521xueweihan/HelloGitHub",
+                        "createdAt": "2016-05-04T06:24:11Z",
+                        "pushedAt": "2025-07-30T17:30:00Z",
+                        "releases": {
+                            "totalCount": 57
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 16
+                        },
+                        "closedIssues": {
+                            "totalCount": 2627
+                        },
+                        "openIssues": {
+                            "totalCount": 210
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "Chalarangelo/30-seconds-of-code",
+                        "createdAt": "2017-11-29T17:35:03Z",
+                        "pushedAt": "2025-08-07T16:49:18Z",
+                        "releases": {
+                            "totalCount": 12
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 826
+                        },
+                        "closedIssues": {
+                            "totalCount": 300
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "facebook/react-native",
+                        "createdAt": "2015-01-09T18:10:16Z",
+                        "pushedAt": "2025-08-13T15:59:10Z",
+                        "releases": {
+                            "totalCount": 409
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "pullRequests": {
+                            "totalCount": 930
+                        },
+                        "closedIssues": {
+                            "totalCount": 26530
+                        },
+                        "openIssues": {
+                            "totalCount": 648
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "yt-dlp/yt-dlp",
+                        "createdAt": "2020-10-26T04:22:55Z",
+                        "pushedAt": "2025-08-12T23:24:32Z",
+                        "releases": {
+                            "totalCount": 116
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 2871
+                        },
+                        "closedIssues": {
+                            "totalCount": 8095
+                        },
+                        "openIssues": {
+                            "totalCount": 1612
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "microsoft/PowerToys",
+                        "createdAt": "2019-05-01T17:44:02Z",
+                        "pushedAt": "2025-08-13T16:01:26Z",
+                        "releases": {
+                            "totalCount": 117
+                        },
+                        "primaryLanguage": {
+                            "name": "C#"
+                        },
+                        "pullRequests": {
+                            "totalCount": 5603
+                        },
+                        "closedIssues": {
+                            "totalCount": 27494
+                        },
+                        "openIssues": {
+                            "totalCount": 6914
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "electron/electron",
+                        "createdAt": "2013-04-12T01:47:36Z",
+                        "pushedAt": "2025-08-13T16:05:04Z",
+                        "releases": {
+                            "totalCount": 1000
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "pullRequests": {
+                            "totalCount": 23211
+                        },
+                        "closedIssues": {
+                            "totalCount": 20273
+                        },
+                        "openIssues": {
+                            "totalCount": 759
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "kubernetes/kubernetes",
+                        "createdAt": "2014-06-06T22:56:04Z",
+                        "pushedAt": "2025-08-12T04:23:22Z",
+                        "releases": {
+                            "totalCount": 751
+                        },
+                        "primaryLanguage": {
+                            "name": "Go"
+                        },
+                        "pullRequests": {
+                            "totalCount": 62217
+                        },
+                        "closedIssues": {
+                            "totalCount": 45740
+                        },
+                        "openIssues": {
+                            "totalCount": 1889
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "krahets/hello-algo",
+                        "createdAt": "2022-11-04T11:08:34Z",
+                        "pushedAt": "2025-08-05T18:33:00Z",
+                        "releases": {
+                            "totalCount": 9
+                        },
+                        "primaryLanguage": {
+                            "name": "Java"
+                        },
+                        "pullRequests": {
+                            "totalCount": 945
+                        },
+                        "closedIssues": {
+                            "totalCount": 257
+                        },
+                        "openIssues": {
+                            "totalCount": 12
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "justjavac/free-programming-books-zh_CN",
+                        "createdAt": "2013-11-04T01:59:19Z",
+                        "pushedAt": "2024-07-15T08:55:20Z",
+                        "releases": {
+                            "totalCount": 3
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 282
+                        },
+                        "closedIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "langchain-ai/langchain",
+                        "createdAt": "2022-10-17T02:58:36Z",
+                        "pushedAt": "2025-08-13T15:51:55Z",
+                        "releases": {
+                            "totalCount": 945
+                        },
+                        "primaryLanguage": {
+                            "name": "Jupyter Notebook"
+                        },
+                        "pullRequests": {
+                            "totalCount": 14434
+                        },
+                        "closedIssues": {
+                            "totalCount": 8427
+                        },
+                        "openIssues": {
+                            "totalCount": 209
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "nodejs/node",
+                        "createdAt": "2014-11-26T19:57:11Z",
+                        "pushedAt": "2025-08-13T13:53:25Z",
+                        "releases": {
+                            "totalCount": 454
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 10704
+                        },
+                        "closedIssues": {
+                            "totalCount": 17703
+                        },
+                        "openIssues": {
+                            "totalCount": 1721
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "d3/d3",
+                        "createdAt": "2010-09-27T17:22:42Z",
+                        "pushedAt": "2025-07-27T11:30:40Z",
+                        "releases": {
+                            "totalCount": 194
+                        },
+                        "primaryLanguage": {
+                            "name": "Shell"
+                        },
+                        "pullRequests": {
+                            "totalCount": 493
+                        },
+                        "closedIssues": {
+                            "totalCount": 2220
+                        },
+                        "openIssues": {
+                            "totalCount": 8
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "langgenius/dify",
+                        "createdAt": "2023-04-12T07:40:24Z",
+                        "pushedAt": "2025-08-13T15:57:25Z",
+                        "releases": {
+                            "totalCount": 140
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 6935
+                        },
+                        "closedIssues": {
+                            "totalCount": 11684
+                        },
+                        "openIssues": {
+                            "totalCount": 691
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "ripienaar/free-for-dev",
+                        "createdAt": "2015-03-18T21:06:26Z",
+                        "pushedAt": "2025-08-13T06:04:47Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "HTML"
+                        },
+                        "pullRequests": {
+                            "totalCount": 2753
+                        },
+                        "closedIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "mrdoob/three.js",
+                        "createdAt": "2010-03-23T18:58:01Z",
+                        "pushedAt": "2025-08-13T16:14:17Z",
+                        "releases": {
+                            "totalCount": 171
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 14356
+                        },
+                        "closedIssues": {
+                            "totalCount": 12712
+                        },
+                        "openIssues": {
+                            "totalCount": 439
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "axios/axios",
+                        "createdAt": "2014-08-18T22:30:27Z",
+                        "pushedAt": "2025-08-12T07:34:42Z",
+                        "releases": {
+                            "totalCount": 97
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 1000
+                        },
+                        "closedIssues": {
+                            "totalCount": 4427
+                        },
+                        "openIssues": {
+                            "totalCount": 415
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "open-webui/open-webui",
+                        "createdAt": "2023-10-06T22:08:27Z",
+                        "pushedAt": "2025-08-13T15:23:44Z",
+                        "releases": {
+                            "totalCount": 119
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 2479
+                        },
+                        "closedIssues": {
+                            "totalCount": 5873
+                        },
+                        "openIssues": {
+                            "totalCount": 207
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "rust-lang/rust",
+                        "createdAt": "2010-06-16T20:39:03Z",
+                        "pushedAt": "2025-08-13T16:14:06Z",
+                        "releases": {
+                            "totalCount": 140
+                        },
+                        "primaryLanguage": {
+                            "name": "Rust"
+                        },
+                        "pullRequests": {
+                            "totalCount": 65413
+                        },
+                        "closedIssues": {
+                            "totalCount": 48467
+                        },
+                        "openIssues": {
+                            "totalCount": 10656
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "microsoft/TypeScript",
+                        "createdAt": "2014-06-17T15:28:39Z",
+                        "pushedAt": "2025-08-11T20:16:40Z",
+                        "releases": {
+                            "totalCount": 212
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 14672
+                        },
+                        "closedIssues": {
+                            "totalCount": 36842
+                        },
+                        "openIssues": {
+                            "totalCount": 5583
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "excalidraw/excalidraw",
+                        "createdAt": "2020-01-02T01:04:43Z",
+                        "pushedAt": "2025-08-13T13:33:01Z",
+                        "releases": {
+                            "totalCount": 14
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 3693
+                        },
+                        "closedIssues": {
+                            "totalCount": 2399
+                        },
+                        "openIssues": {
+                            "totalCount": 1831
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "goldbergyoni/nodebestpractices",
+                        "createdAt": "2017-09-15T08:33:19Z",
+                        "pushedAt": "2025-04-15T21:52:42Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Dockerfile"
+                        },
+                        "pullRequests": {
+                            "totalCount": 765
+                        },
+                        "closedIssues": {
+                            "totalCount": 285
+                        },
+                        "openIssues": {
+                            "totalCount": 43
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "denoland/deno",
+                        "createdAt": "2018-05-15T01:34:26Z",
+                        "pushedAt": "2025-08-13T13:46:53Z",
+                        "releases": {
+                            "totalCount": 340
+                        },
+                        "primaryLanguage": {
+                            "name": "Rust"
+                        },
+                        "pullRequests": {
+                            "totalCount": 13298
+                        },
+                        "closedIssues": {
+                            "totalCount": 10865
+                        },
+                        "openIssues": {
+                            "totalCount": 2272
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "facebook/create-react-app",
+                        "createdAt": "2016-07-17T14:55:11Z",
+                        "pushedAt": "2025-02-15T01:32:11Z",
+                        "releases": {
+                            "totalCount": 83
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 1949
+                        },
+                        "closedIssues": {
+                            "totalCount": 6567
+                        },
+                        "openIssues": {
+                            "totalCount": 1833
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "GrowingGit/GitHub-Chinese-Top-Charts",
+                        "createdAt": "2019-09-05T03:01:56Z",
+                        "pushedAt": "2024-10-12T06:51:36Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Java"
+                        },
+                        "pullRequests": {
+                            "totalCount": 0
+                        },
+                        "closedIssues": {
+                            "totalCount": 161
+                        },
+                        "openIssues": {
+                            "totalCount": 179
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "godotengine/godot",
+                        "createdAt": "2014-01-04T16:05:36Z",
+                        "pushedAt": "2025-08-12T16:55:04Z",
+                        "releases": {
+                            "totalCount": 61
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "pullRequests": {
+                            "totalCount": 38644
+                        },
+                        "closedIssues": {
+                            "totalCount": 45934
+                        },
+                        "openIssues": {
+                            "totalCount": 12053
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "langflow-ai/langflow",
+                        "createdAt": "2023-02-08T22:28:03Z",
+                        "pushedAt": "2025-08-13T16:12:20Z",
+                        "releases": {
+                            "totalCount": 261
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 4584
+                        },
+                        "closedIssues": {
+                            "totalCount": 2239
+                        },
+                        "openIssues": {
+                            "totalCount": 429
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "microsoft/terminal",
+                        "createdAt": "2017-08-11T18:38:22Z",
+                        "pushedAt": "2025-08-13T16:10:21Z",
+                        "releases": {
+                            "totalCount": 136
+                        },
+                        "primaryLanguage": {
+                            "name": "C++"
+                        },
+                        "pullRequests": {
+                            "totalCount": 4180
+                        },
+                        "closedIssues": {
+                            "totalCount": 11850
+                        },
+                        "openIssues": {
+                            "totalCount": 1602
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "deepseek-ai/DeepSeek-V3",
+                        "createdAt": "2024-12-26T09:52:40Z",
+                        "pushedAt": "2025-06-27T08:46:37Z",
+                        "releases": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 21
+                        },
+                        "closedIssues": {
+                            "totalCount": 553
+                        },
+                        "openIssues": {
+                            "totalCount": 28
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "angular/angular",
+                        "createdAt": "2014-09-18T16:12:01Z",
+                        "pushedAt": "2025-08-13T16:14:20Z",
+                        "releases": {
+                            "totalCount": 465
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 3869
+                        },
+                        "closedIssues": {
+                            "totalCount": 27985
+                        },
+                        "openIssues": {
+                            "totalCount": 1465
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "fatedier/frp",
+                        "createdAt": "2015-12-21T15:24:59Z",
+                        "pushedAt": "2025-08-11T17:48:56Z",
+                        "releases": {
+                            "totalCount": 106
+                        },
+                        "primaryLanguage": {
+                            "name": "Go"
+                        },
+                        "pullRequests": {
+                            "totalCount": 682
+                        },
+                        "closedIssues": {
+                            "totalCount": 3832
+                        },
+                        "openIssues": {
+                            "totalCount": 61
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "papers-we-love/papers-we-love",
+                        "createdAt": "2013-12-15T14:31:41Z",
+                        "pushedAt": "2025-05-04T18:45:38Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Shell"
+                        },
+                        "pullRequests": {
+                            "totalCount": 437
+                        },
+                        "closedIssues": {
+                            "totalCount": 245
+                        },
+                        "openIssues": {
+                            "totalCount": 1
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "mui/material-ui",
+                        "createdAt": "2014-08-18T19:11:54Z",
+                        "pushedAt": "2025-08-13T15:53:50Z",
+                        "releases": {
+                            "totalCount": 547
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 20763
+                        },
+                        "closedIssues": {
+                            "totalCount": 18543
+                        },
+                        "openIssues": {
+                            "totalCount": 1617
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "iptv-org/iptv",
+                        "createdAt": "2018-11-14T22:00:57Z",
+                        "pushedAt": "2025-08-13T14:50:33Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 6664
+                        },
+                        "closedIssues": {
+                            "totalCount": 14204
+                        },
+                        "openIssues": {
+                            "totalCount": 444
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "Hack-with-Github/Awesome-Hacking",
+                        "createdAt": "2016-03-30T15:47:10Z",
+                        "pushedAt": "2025-01-18T01:48:02Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 34
+                        },
+                        "closedIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "ant-design/ant-design",
+                        "createdAt": "2015-04-24T15:37:24Z",
+                        "pushedAt": "2025-08-13T14:41:36Z",
+                        "releases": {
+                            "totalCount": 713
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 15744
+                        },
+                        "closedIssues": {
+                            "totalCount": 30367
+                        },
+                        "openIssues": {
+                            "totalCount": 1228
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "rustdesk/rustdesk",
+                        "createdAt": "2020-09-28T15:36:08Z",
+                        "pushedAt": "2025-08-13T11:24:15Z",
+                        "releases": {
+                            "totalCount": 31
+                        },
+                        "primaryLanguage": {
+                            "name": "Rust"
+                        },
+                        "pullRequests": {
+                            "totalCount": 3625
+                        },
+                        "closedIssues": {
+                            "totalCount": 3550
+                        },
+                        "openIssues": {
+                            "totalCount": 56
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "tauri-apps/tauri",
+                        "createdAt": "2019-07-13T09:09:37Z",
+                        "pushedAt": "2025-08-13T13:50:32Z",
+                        "releases": {
+                            "totalCount": 1000
+                        },
+                        "primaryLanguage": {
+                            "name": "Rust"
+                        },
+                        "pullRequests": {
+                            "totalCount": 5142
+                        },
+                        "closedIssues": {
+                            "totalCount": 4627
+                        },
+                        "openIssues": {
+                            "totalCount": 1120
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "microsoft/generative-ai-for-beginners",
+                        "createdAt": "2023-06-19T16:28:59Z",
+                        "pushedAt": "2025-08-11T05:20:19Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Jupyter Notebook"
+                        },
+                        "pullRequests": {
+                            "totalCount": 376
+                        },
+                        "closedIssues": {
+                            "totalCount": 165
+                        },
+                        "openIssues": {
+                            "totalCount": 11
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "nvbn/thefuck",
+                        "createdAt": "2015-04-08T15:08:04Z",
+                        "pushedAt": "2024-07-19T14:56:13Z",
+                        "releases": {
+                            "totalCount": 17
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 481
+                        },
+                        "closedIssues": {
+                            "totalCount": 472
+                        },
+                        "openIssues": {
+                            "totalCount": 287
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "ryanmcdermott/clean-code-javascript",
+                        "createdAt": "2016-11-25T22:25:41Z",
+                        "pushedAt": "2024-07-29T07:24:37Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 149
+                        },
+                        "closedIssues": {
+                            "totalCount": 163
+                        },
+                        "openIssues": {
+                            "totalCount": 72
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "shadcn-ui/ui",
+                        "createdAt": "2023-01-04T12:43:27Z",
+                        "pushedAt": "2025-08-13T15:03:28Z",
+                        "releases": {
+                            "totalCount": 52
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 636
+                        },
+                        "closedIssues": {
+                            "totalCount": 2365
+                        },
+                        "openIssues": {
+                            "totalCount": 965
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "iluwatar/java-design-patterns",
+                        "createdAt": "2014-08-09T16:45:18Z",
+                        "pushedAt": "2025-08-05T05:50:17Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "Java"
+                        },
+                        "pullRequests": {
+                            "totalCount": 1507
+                        },
+                        "closedIssues": {
+                            "totalCount": 830
+                        },
+                        "openIssues": {
+                            "totalCount": 129
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "pytorch/pytorch",
+                        "createdAt": "2016-08-13T05:26:41Z",
+                        "pushedAt": "2025-08-13T16:16:38Z",
+                        "releases": {
+                            "totalCount": 61
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 6191
+                        },
+                        "closedIssues": {
+                            "totalCount": 37633
+                        },
+                        "openIssues": {
+                            "totalCount": 15419
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "Anduin2017/HowToCook",
+                        "createdAt": "2020-02-29T10:43:49Z",
+                        "pushedAt": "2025-08-01T16:17:17Z",
+                        "releases": {
+                            "totalCount": 4
+                        },
+                        "primaryLanguage": {
+                            "name": "Dockerfile"
+                        },
+                        "pullRequests": {
+                            "totalCount": 586
+                        },
+                        "closedIssues": {
+                            "totalCount": 346
+                        },
+                        "openIssues": {
+                            "totalCount": 434
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "neovim/neovim",
+                        "createdAt": "2014-01-31T13:39:22Z",
+                        "pushedAt": "2025-08-13T12:40:08Z",
+                        "releases": {
+                            "totalCount": 45
+                        },
+                        "primaryLanguage": {
+                            "name": "Vim Script"
+                        },
+                        "pullRequests": {
+                            "totalCount": 16081
+                        },
+                        "closedIssues": {
+                            "totalCount": 11449
+                        },
+                        "openIssues": {
+                            "totalCount": 1644
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "puppeteer/puppeteer",
+                        "createdAt": "2017-05-09T22:16:13Z",
+                        "pushedAt": "2025-08-13T12:18:28Z",
+                        "releases": {
+                            "totalCount": 555
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 5408
+                        },
+                        "closedIssues": {
+                            "totalCount": 6947
+                        },
+                        "openIssues": {
+                            "totalCount": 262
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "microsoft/Web-Dev-For-Beginners",
+                        "createdAt": "2020-11-10T02:44:00Z",
+                        "pushedAt": "2025-08-07T12:15:04Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": {
+                            "name": "JavaScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 514
+                        },
+                        "closedIssues": {
+                            "totalCount": 242
+                        },
+                        "openIssues": {
+                            "totalCount": 88
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "deepseek-ai/DeepSeek-R1",
+                        "createdAt": "2025-01-20T11:57:28Z",
+                        "pushedAt": "2025-06-27T08:35:54Z",
+                        "releases": {
+                            "totalCount": 1
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 9
+                        },
+                        "closedIssues": {
+                            "totalCount": 568
+                        },
+                        "openIssues": {
+                            "totalCount": 59
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "PanJiaChen/vue-element-admin",
+                        "createdAt": "2017-04-17T03:35:49Z",
+                        "pushedAt": "2024-10-24T11:25:46Z",
+                        "releases": {
+                            "totalCount": 49
+                        },
+                        "primaryLanguage": {
+                            "name": "Vue"
+                        },
+                        "pullRequests": {
+                            "totalCount": 311
+                        },
+                        "closedIssues": {
+                            "totalCount": 2357
+                        },
+                        "openIssues": {
+                            "totalCount": 1252
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "tailwindlabs/tailwindcss",
+                        "createdAt": "2017-10-06T14:59:14Z",
+                        "pushedAt": "2025-08-13T15:05:07Z",
+                        "releases": {
+                            "totalCount": 289
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 3066
+                        },
+                        "closedIssues": {
+                            "totalCount": 4451
+                        },
+                        "openIssues": {
+                            "totalCount": 78
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "fastapi/fastapi",
+                        "createdAt": "2018-12-08T08:21:47Z",
+                        "pushedAt": "2025-08-12T16:49:35Z",
+                        "releases": {
+                            "totalCount": 208
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 2732
+                        },
+                        "closedIssues": {
+                            "totalCount": 3417
+                        },
+                        "openIssues": {
+                            "totalCount": 49
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "mtdvio/every-programmer-should-know",
+                        "createdAt": "2017-08-24T13:18:26Z",
+                        "pushedAt": "2024-08-06T12:01:28Z",
+                        "releases": {
+                            "totalCount": 0
+                        },
+                        "primaryLanguage": null,
+                        "pullRequests": {
+                            "totalCount": 99
+                        },
+                        "closedIssues": {
+                            "totalCount": 23
+                        },
+                        "openIssues": {
+                            "totalCount": 29
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "storybookjs/storybook",
+                        "createdAt": "2016-03-18T04:23:44Z",
+                        "pushedAt": "2025-08-13T14:15:15Z",
+                        "releases": {
+                            "totalCount": 1000
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 11468
+                        },
+                        "closedIssues": {
+                            "totalCount": 11609
+                        },
+                        "openIssues": {
+                            "totalCount": 2068
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "supabase/supabase",
+                        "createdAt": "2019-10-12T05:56:49Z",
+                        "pushedAt": "2025-08-13T16:06:03Z",
+                        "releases": {
+                            "totalCount": 22
+                        },
+                        "primaryLanguage": {
+                            "name": "TypeScript"
+                        },
+                        "pullRequests": {
+                            "totalCount": 12869
+                        },
+                        "closedIssues": {
+                            "totalCount": 4392
+                        },
+                        "openIssues": {
+                            "totalCount": 246
+                        }
+                    }
+                },
+                {
+                    "node": {
+                        "nameWithOwner": "openai/whisper",
+                        "createdAt": "2022-09-16T20:02:54Z",
+                        "pushedAt": "2025-06-26T01:05:52Z",
+                        "releases": {
+                            "totalCount": 13
+                        },
+                        "primaryLanguage": {
+                            "name": "Python"
+                        },
+                        "pullRequests": {
+                            "totalCount": 119
+                        },
+                        "closedIssues": {
+                            "totalCount": 0
+                        },
+                        "openIssues": {
+                            "totalCount": 0
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}
