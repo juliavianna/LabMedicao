@@ -1,72 +1,95 @@
 # LabMedicao
+
 Laboratório da matéria Medição e Experimentação em Engenharia de Software
 
-# Coletor de Dados de Repositórios Populares do GitHub
+# Coletor e Analisador de Dados de Repositórios Populares do GitHub
 
-Este script Python foi desenvolvido para coletar informações detalhadas de repositórios populares no GitHub, como parte de um estudo sobre as características de projetos open-source de sucesso. Ele utiliza a API GraphQL do GitHub para buscar dados de repositórios com mais de 1000 estrelas, com o objetivo de responder a uma série de questões de pesquisa sobre maturidade, frequência de contribuição, releases e outras métricas.
+Este projeto foi desenvolvido para coletar e analisar informações detalhadas de repositórios populares no GitHub, como parte de um estudo sobre as características de projetos open-source de sucesso. Ele utiliza a **API GraphQL do GitHub** para buscar dados de repositórios com mais de 1000 estrelas, com o objetivo de responder a uma série de **questões de pesquisa (RQs)** relacionadas a maturidade, contribuições externas, releases, atualizações e popularidade das linguagens.
 
-Este é o **Laboratório 1** do projeto e foca na coleta inicial de dados para 100 repositórios.
+---
 
-### Questões de Pesquisa (RQs)
+## 📌 Roadmap do Projeto
+
+* ✅ **Lab01S01** → Coleta inicial de dados para 100 repositórios, utilizando consulta GraphQL.
+* ✅ **Lab01S02** → Implementação da paginação para coletar **1000 repositórios**, exportação em **.csv** e elaboração da **primeira versão do relatório com hipóteses informais**.
+* ⏳ **Lab01S03** → Análise, visualização de dados e relatório final.
+
+---
+
+## Questões de Pesquisa (RQs)
 
 O projeto visa responder às seguintes questões de pesquisa, usando as métricas extraídas pelo script:
 
-  * **RQ 01**: Sistemas populares são maduros/antigos? (Métrica: idade do repositório)
-  * **RQ 02**: Sistemas populares recebem muita contribuição externa? (Métrica: total de pull requests aceitas)
-  * **RQ 03**: Sistemas populares lançam releases com frequência? (Métrica: total de releases)
-  * **RQ 04**: Sistemas populares são atualizados com frequência? (Métrica: tempo até a última atualização)
-  * **RQ 05**: Sistemas populares são escritos nas linguagens mais populares? (Métrica: linguagem primária)
-  * **RQ 06**: Sistemas populares possuem um alto percentual de issues fechadas? (Métrica: razão entre issues fechadas e issues totais)
+* **RQ 01**: Sistemas populares são maduros/antigos?
 
------
+  * *Métrica*: idade do repositório.
+* **RQ 02**: Sistemas populares recebem muita contribuição externa?
 
-### Como Usar
+  * *Métrica*: total de pull requests aceitas.
+* **RQ 03**: Sistemas populares lançam releases com frequência?
 
-Para executar este script, você precisa de um **token de acesso pessoal** do GitHub.
+  * *Métrica*: total de releases.
+* **RQ 04**: Sistemas populares são atualizados com frequência?
 
-#### Pré-requisitos
+  * *Métrica*: tempo até a última atualização.
+* **RQ 05**: Sistemas populares são escritos nas linguagens mais populares?
 
-  * **Python 3.x**
-  * **Bibliotecas Python**: `requests`
-  * **Variável de Ambiente**: `GITHUB_TOKEN` configurada
+  * *Métrica*: linguagem primária.
+* **RQ 06**: Sistemas populares possuem um alto percentual de issues fechadas?
 
-#### 1\. Instalar a biblioteca `requests`
+  * *Métrica*: razão entre issues fechadas e issues totais.
+* **RQ 07 (Bônus)**: Sistemas escritos em linguagens mais populares recebem mais contribuição externa, lançam mais releases e são atualizados com mais frequência?
+
+---
+
+## 🔧 Como Usar
+
+### Pré-requisitos
+
+* **Python 3.x**
+* **Bibliotecas Python**: `requests`, `csv` (padrão do Python)
+* **Variável de Ambiente**: `GITHUB_TOKEN` configurada
+
+### 1. Instalar a biblioteca necessária
 
 ```bash
 pip install requests
 ```
 
-#### 2\. Obter um Token de Acesso Pessoal (PAT) do GitHub
+### 2. Obter um Token de Acesso Pessoal (PAT) do GitHub
 
-1.  Acesse as **Settings** do seu perfil no GitHub.
-2.  Navegue até **Developer settings** \> **Personal access tokens** \> **Tokens (classic)**.
-3.  Clique em **Generate new token (classic)**.
-4.  Dê um nome ao token (ex: `GraphQL_Collector`).
-5.  Marque a permissão `repo` e `read:org` para ter acesso aos repositórios.
-6.  Clique em **Generate token** e copie o valor.
+1. Vá em **Settings** no seu perfil GitHub.
+2. Acesse **Developer settings > Personal access tokens > Tokens (classic)**.
+3. Clique em **Generate new token (classic)**.
+4. Dê um nome ao token (ex: `GraphQL_Collector`).
+5. Marque a permissão `repo` e `read:org`.
+6. Gere o token e copie o valor.
 
-#### 3\. Configurar a variável de ambiente
+### 3. Configurar a variável de ambiente
 
-Exporte o token para a variável de ambiente `GITHUB_TOKEN`.
-
-No **Linux/macOS**:
+**Linux/macOS**:
 
 ```bash
 export GITHUB_TOKEN="seu_token_aqui"
 ```
 
-No **Windows (CMD)**:
+**Windows (CMD)**:
 
 ```bash
 set GITHUB_TOKEN="seu_token_aqui"
 ```
 
-#### 4\. Executar o script
+### 4. Executar o script
 
-Com a variável de ambiente configurada, você pode executar o script Python.
+Para rodar o script principal:
 
 ```bash
-python seu_script.py
+python lab01_coleta.py
 ```
 
-Ao final da execução, o script criará um arquivo chamado `lab01_data.json` contendo os dados dos 100 repositórios coletados.
+Ao final da execução:
+
+* No **Lab01S01**, é gerado o arquivo `lab01_data.json` com os dados de 100 repositórios.
+* No **Lab01S02**, é gerado o arquivo `lab01_data.csv` com os dados de 1000 repositórios e o **relatório inicial** com hipóteses informais.
+* No **Lab01S03** (em andamento), serão feitas análises estatísticas, visualizações gráficas e a elaboração do **relatório final**.
+
