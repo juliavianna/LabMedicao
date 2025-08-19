@@ -47,7 +47,7 @@ O projeto visa responder às seguintes questões de pesquisa, usando as métrica
 ### Pré-requisitos
 
 * **Python 3.x**
-* **Bibliotecas Python**: `requests`, `csv` (padrão do Python)
+* **Bibliotecas Python**: `requests`, `csv` (padrão do Python), `pandas`
 * **Variável de Ambiente**: `GITHUB_TOKEN` configurada
 
 ### 1. Instalar a biblioteca necessária
@@ -86,6 +86,19 @@ Para rodar o script principal:
 ```bash
 python lab01_coleta.py
 ```
+### 3. Executar o código de análise para obter as respostas
+1. Instalar a biblioteca pandas
+
+```bash
+pip install pandas
+```
+2. Navegar até a pasta Lab01S02 e rodar no terminal
+
+```bash
+python lab01_analise.py
+```
+
+---
 
 Ao final da execução:
 
