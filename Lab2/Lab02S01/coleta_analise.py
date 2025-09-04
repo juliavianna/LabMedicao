@@ -46,9 +46,9 @@ def find_best_java_source_directory(root_path):
 def main():
     api_url = "https://api.github.com/search/repositories?q=language:java&sort=stars&order=desc&per_page=2"
     
-    # <<-- ADICIONE SEU TOKEN AQUI -->>
+    # <<-- ADICIONE O TOKEN AQUI!!!!!!!!!!!! -->>
     # Substitua a string abaixo pelo token que você gerou no GitHub
-    GITHUB_TOKEN = "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"
+    GITHUB_TOKEN = ""
     headers = {"Authorization": f"Bearer {GITHUB_TOKEN}"}
 
     for f in ["class.csv", "method.csv", "quality_metrics.csv"]:
