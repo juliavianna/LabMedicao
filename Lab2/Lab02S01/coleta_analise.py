@@ -46,7 +46,7 @@ def find_best_java_source_directory(root_path):
     print(f"Diretório com mais arquivos Java encontrado: '{best_path}' ({max_java_files} arquivos).")
     return best_path, max_java_files
 
-def remove_directory_with_retries(path, max_retries=5, delay_seconds=3):
+def remove_directory_with_retries(path, max_retries=1, delay_seconds=1):
     for attempt in range(max_retries):
         try:
             if os.path.exists(path):
@@ -96,8 +96,8 @@ def perform_analysis_and_visualization(final_df):
 # --- FUNÇÃO PRINCIPAL (COM AS CORREÇÕES) ---
 
 def main():
-    GITHUB_TOKEN = "seu_token_aqui"  # substituir pelo token do GitHub E DPS APAGAR!!!!!!!!!!!!!!11
-    NUM_REPOS_TO_ANALYZE = 20
+    GITHUB_TOKEN = "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"
+    NUM_REPOS_TO_ANALYZE = 1000
     REPOS_PER_PAGE = 100
     FINAL_CSV_PATH = "analise_final_repositorios.csv"
 
@@ -192,5 +192,5 @@ def main():
     else:
         print("Arquivo de análise final não encontrado. A análise não pode ser executada.")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
