@@ -125,5 +125,5 @@ def main():
         shutil.rmtree(output_dir)
     print("Limpeza concluída.")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
