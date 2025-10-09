@@ -1,0 +1,85 @@
+{
+    "sumarizacao_mediana": {
+        "tamanho_files": 2.0,
+        "tamanho_linhas_adicionadas": 21.5,
+        "tempo_analise_horas": 18.8,
+        "numero_revisoes": 2.0,
+        "interacoes_comentarios": 1.0,
+        "por_status": {
+            "tamanho_linhas_adicionadas": {
+                "CLOSED": 34.0,
+                "MERGED": 20.0
+            },
+            "tempo_analise_horas": {
+                "CLOSED": 19.85,
+                "MERGED": 18.47
+            },
+            "numero_revisoes": {
+                "CLOSED": 1.0,
+                "MERGED": 2.0
+            },
+            "interacoes_comentarios": {
+                "CLOSED": 2.0,
+                "MERGED": 1.0
+            }
+        }
+    },
+    "correlacoes": {
+        "RQ01": {
+            "RQ": "RQ01",
+            "Vari\u00e1veis": "Tamanho vs. is_merged",
+            "Correla\u00e7\u00e3o_Spearman": -0.064,
+            "P_Valor": 0.0365,
+            "Significante": "Sim"
+        },
+        "RQ02": {
+            "RQ": "RQ02",
+            "Vari\u00e1veis": "Tempo de An\u00e1lise vs. is_merged",
+            "Correla\u00e7\u00e3o_Spearman": -0.035,
+            "P_Valor": 0.2569,
+            "Significante": "N\u00e3o"
+        },
+        "RQ03": {
+            "RQ": "RQ03",
+            "Vari\u00e1veis": "Descri\u00e7\u00e3o vs. is_merged",
+            "Correla\u00e7\u00e3o_Spearman": -0.042,
+            "P_Valor": 0.1702,
+            "Significante": "N\u00e3o"
+        },
+        "RQ04": {
+            "RQ": "RQ04",
+            "Vari\u00e1veis": "Intera\u00e7\u00f5es vs. is_merged",
+            "Correla\u00e7\u00e3o_Spearman": -0.146,
+            "P_Valor": 0.0,
+            "Significante": "Sim"
+        },
+        "RQ05": {
+            "RQ": "RQ05",
+            "Vari\u00e1veis": "Tamanho vs. numero_revisoes",
+            "Correla\u00e7\u00e3o_Spearman": 0.177,
+            "P_Valor": 0.0,
+            "Significante": "Sim"
+        },
+        "RQ06": {
+            "RQ": "RQ06",
+            "Vari\u00e1veis": "Tempo de An\u00e1lise vs. numero_revisoes",
+            "Correla\u00e7\u00e3o_Spearman": 0.159,
+            "P_Valor": 0.0,
+            "Significante": "Sim"
+        },
+        "RQ07": {
+            "RQ": "RQ07",
+            "Vari\u00e1veis": "Descri\u00e7\u00e3o vs. numero_revisoes",
+            "Correla\u00e7\u00e3o_Spearman": -0.067,
+            "P_Valor": 0.0292,
+            "Significante": "Sim"
+        },
+        "RQ08": {
+            "RQ": "RQ08",
+            "Vari\u00e1veis": "Intera\u00e7\u00f5es vs. numero_revisoes",
+            "Correla\u00e7\u00e3o_Spearman": 0.297,
+            "P_Valor": 0.0,
+            "Significante": "Sim"
+        }
+    }
+}
