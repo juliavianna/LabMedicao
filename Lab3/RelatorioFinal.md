@@ -1,4 +1,7 @@
-# Relatório Preliminar (Lab 03) - Rascunho Inicial com Hipóteses
+# Relatório Final (Lab 03) 
+
+*Autores:* Leandra Ramos e Júlia Vidal
+*Data:* 16 de outubro de 2025
 
 ## 1. Introdução
 
