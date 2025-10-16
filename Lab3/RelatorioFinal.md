@@ -178,7 +178,33 @@ O gráfico de dispersão relaciona o número de caracteres na descrição (eixo 
 ![Gráfico para RQ08](./graficos/GraficoRQ8.jpeg)
 
 **Resposta:**
-Foi identificado que PRs com mais comentários sofrem menos revisões do que aqueles ocm menos comentários.
+Foi identificado que PRs com mais comentários sofrem menos revisões do que aqueles com menos comentários.
 
 **Análise:**
 A linha de tendência neste gráfico exibe uma inclinação, o que indica que um aumento no número de comentários está  associado a uma diminuição no número de revisões, possivelmente porque PRs mais debatidos geram menos retrabalho.
+
+
+## 3. Conclusão
+
+Este estudo se propôs a investigar os fatores que influenciam o ciclo de vida e os resultados dos Pull Requests em grandes projetos de software de código aberto. A análise dos dados revelou uma narrativa clara: enquanto a aceitação de um PR está fortemente ligada a indicadores de complexidade e escopo, a quantidade de revisões que ele atrai é mais sutil e parece ser impulsionada pelo engajamento da comunidade.
+
+Os resultados demonstram que PRs rejeitados (`CLOSED`) são, em média, maiores, mais demorados e geram mais discussões do que os PRs aceitos (`MERGED`). Isso reforça a ideia de que contribuições menores e mais focadas têm uma probabilidade maior de serem integradas de forma eficiente.
+
+Por outro lado, métricas como tamanho, tempo em aberto ou detalhamento da descrição não se mostraram bons preditores da quantidade de revisões formais. A única variável com alguma correlação, ainda que fraca, foi o número de comentários, sugerindo que o debate e a interação em torno de uma mudança são os principais catalisadores para um maior escrutínio por parte da equipe.
+
+
+## 4. Limitações do Estudo
+
+É importante reconhecer as limitações inerentes a esta análise, que podem influenciar a interpretação dos resultados:
+
+* **Escopo dos Dados:** O estudo foi conduzido em um conjunto específico de cinco repositórios de grande porte e de código aberto. As práticas de engenharia de software e a cultura de revisão de código podem variar drasticamente em projetos menores, de domínio diferente ou em ambientes corporativos de código fechado, limitando a generalização dos achados.
+
+* **Natureza das Métricas:** A análise se baseou exclusivamente em metadados quantitativos (contagens de linhas, comentários, etc.). Fatores qualitativos cruciais, como a complexidade algorítmica do código, a importância estratégica da funcionalidade proposta e o sentimento por trás das interações, não foram capturados.
+
+* **Inferência de Causalidade:** A metodologia utilizada permite identificar correlações estatísticas, mas não estabelecer relações de causa e efeito. Por exemplo, embora PRs `CLOSED` tenham mais comentários, é mais provável que a complexidade inerente da tarefa seja a causa de ambos, em vez de um ser a causa do outro.
+
+## 5. Trabalhos Futuros
+
+As limitações deste estudo abrem caminhos promissores para futuras investigações:
+
+* **Estudo sobre Fatores Humanos:** Expandir a análise para incluir variáveis relacionadas aos contribuidores e revisores, como seu histórico de contribuições, nível de experiência no projeto e conexões na rede social do repositório. Isso poderia revelar como o capital social e a reputação dos desenvolvedores influenciam o processo de revisão.
