@@ -91,10 +91,10 @@ Nesta seção, são apresentados os resultados obtidos através da análise dos 
 ![Gráfico para RQ01](./graficos/GraficoRQ1.jpeg)
 
 **Resposta:**
-Existe uma relação clara e observável entre o tamanho de um Pull Request (medido pelo número de linhas adicionadas) e o seu feedback final. PRs que são fechados sem serem integrados ao código (`CLOSED`) são, em média, significativamente maiores do que os PRs que são aceitos e integrados (`MERGED`).
+Existe uma relação clara e observável entre o tamanho de um Pull Request (medido pelo número de linhas adicionadas) e o seu feedback final. PRs que são fechados sem serem integrados ao código (`CLOSED`) são, em média, significativamente menores do que os PRs que são aceitos e integrados (`MERGED`).
 
 **Análise:**
-O gráfico de barras acima compara a média de linhas de código adicionadas para os PRs `MERGED` (427,33 linhas) e `CLOSED` (1.839,47 linhas). A diferença de mais de 4 vezes sugere que PRs de grande escopo enfrentam um escrutínio maior e possuem uma probabilidade mais alta de serem rejeitados.
+O gráfico de barras acima compara a média de linhas de código adicionadas para os PRs `MERGED` (140.314 linhas) e `CLOSED` (46.326 linhas). A diferença de mais de 3 vezes sugere que PRs de pequeno escopo enfrentam um escrutínio maior e possuem uma probabilidade mais alta de serem rejeitados.
 
 ---
 
@@ -103,10 +103,10 @@ O gráfico de barras acima compara a média de linhas de código adicionadas par
 ![Gráfico para RQ02](./graficos/GraficoRQ2.jpeg)
 
 **Resposta:**
-Há uma relação perceptível entre o tempo de análise e o resultado de um Pull Request. PRs que permanecem abertos por mais tempo têm uma tendência maior a serem fechados sem merge (`CLOSED`).
+Há uma relação perceptível entre o tempo de análise e o resultado de um Pull Request. PRs que sofreram merge passam mais tempo sendo analisados que aqueles que são fechados.
 
 **Análise:**
-O gráfico de colunas demonstra que PRs `CLOSED` levaram em média **231,28 horas** para serem finalizados, enquanto PRs `MERGED` tiveram um tempo médio de **185,06 horas**. Esta diferença sugere que PRs que se prolongam no tempo enfrentam maiores desafios para serem aprovados.
+O gráfico de colunas demonstra que PRs `CLOSED` somados levaram **446 mil horas** para serem finalizados, enquanto PRs `MERGED` tiveram a soma do tempo maior que **4 milhoes de horas**. Esta diferença sugere que PRs que se prolongam no tempo de análise geralmente são aprovados.
 
 ---
 
@@ -115,10 +115,10 @@ O gráfico de colunas demonstra que PRs `CLOSED` levaram em média **231,28 hora
 ![Gráfico para RQ03](./graficos/GraficoRQ3.jpeg)
 
 **Resposta:**
-Existe uma relação sutil entre o tamanho da descrição de um Pull Request e seu resultado final. Em média, PRs que são `CLOSED` tendem a ter descrições mais longas.
+Existe uma relação sutil entre o tamanho da descrição de um Pull Request e seu resultado final. Em média, PRs que são `CLOSED` tendem a ter descrições mais curtas.
 
 **Análise:**
-O gráfico compara a média de caracteres na descrição para PRs `CLOSED` (2.130,63 caracteres) e `MERGED` (1.846,12 caracteres). Uma possível interpretação é que PRs mais complexos — e com maior chance de rejeição — exigem uma justificativa textual mais elaborada.
+O gráfico compara a média de caracteres na descrição para PRs `CLOSED` (somado 134 mil caracteres) e `MERGED` (mais de 1.9 milhões caracteres somados). Uma possível interpretação é que PRs mais complexos exigem uma justificativa textual mais elaborada e que por isso facilitam o entendimento da alteração e por consequencia sofrem o merge.
 
 ---
 
@@ -127,10 +127,10 @@ O gráfico compara a média de caracteres na descrição para PRs `CLOSED` (2.13
 ![Gráfico para RQ04](./graficos/GraficoRQ4.jpeg)
 
 **Resposta:**
-Existe uma forte relação entre o volume de interações (comentários) e o resultado de um PR. PRs que são `CLOSED` apresentam, em média, um número significativamente maior de comentários.
+Existe uma forte relação entre o volume de interações (comentários) e o resultado de um PR. PRs que são `CLOSED` apresentam, em média, um número significativamente menor de comentários.
 
 **Análise:**
-O gráfico de colunas mostra que PRs `CLOSED` têm uma média de **5,48 comentários**, enquanto PRs `MERGED` apresentam uma média de **3,53 comentários**. Um volume elevado de interações sugere maior debate ou controvérsia, aumentando a probabilidade de o PR ser considerado inviável.
+O gráfico de colunas mostra que todos os PRs `CLOSED` têm uma uma soma de apenas **200 comentários**, enquanto PRs `MERGED` apresentam uma soma de **2 mil comentários**. Um volume elevado de interações sugere maior debate ou discussão, aumentando a probabilidade de o PR ser considerado apto a sofrer o merge.
 
 ---
 
@@ -139,10 +139,10 @@ O gráfico de colunas mostra que PRs `CLOSED` têm uma média de **5,48 comentá
 ![Gráfico para RQ05](./graficos/GraficoRQ5.jpeg)
 
 **Resposta:**
-Não há uma correlação forte ou clara entre o tamanho de um Pull Request e o número de revisões que ele recebe.
+Quanto menor a quantidade de linhas adicionadas em um PR, mais revisões eles sofrem, e PRs com muitas linhas geralmente sofrem menos revisões.
 
 **Análise:**
-O gráfico de dispersão acima relaciona o tamanho de um PR (eixo X) com o número de revisões (eixo Y). A linha de tendência praticamente horizontal sinaliza uma correlação muito fraca, sugerindo que o tamanho do PR, por si só, não determina a quantidade de revisões.
+O gráfico de dispersão acima relaciona o tamanho de um PR (eixo X) com o número de revisões (eixo Y). A linha de tendência sinaliza que PRs pequenos sofrem mais revisões e PRs grandes geralmente sofrem emnos revisões
 
 ---
 
@@ -151,10 +151,10 @@ O gráfico de dispersão acima relaciona o tamanho de um PR (eixo X) com o núme
 ![Gráfico para RQ06](./graficos/GraficoRQ6.jpeg)
 
 **Resposta:**
-Não foi encontrada uma correlação significativa entre o tempo de análise de um Pull Request e o número de revisões que ele recebe.
+PRs que passam mais teempo em análise num geral sofrem menos revisões
 
 **Análise:**
-O gráfico de dispersão plota o tempo de análise (eixo X) contra o número de revisões (eixo Y). A linha de tendência plana indica uma correlação inexistente, mostrando que a duração do ciclo de vida de um PR não é um fator determinante para a quantidade de revisões formais.
+O gráfico de dispersão plota a soma do tempo de análise (eixo X) contra o número de revisões (eixo Y). A linha de tendência indica que quanto maior o tempo gasto em análise, maior é o número de revisões.
 
 ---
 
@@ -163,10 +163,10 @@ O gráfico de dispersão plota o tempo de análise (eixo X) contra o número de 
 ![Gráfico para RQ07](./graficos/GraficoRQ7.jpeg)
 
 **Resposta:**
-Não foi observada uma relação clara entre o tamanho da descrição de um Pull Request e o número de revisões que ele atrai.
+PRs que tem uma descrição breve sofrem mais revisões que aqueles que possuem uma descrição mais extensa.
 
 **Análise:**
-O gráfico de dispersão relaciona o número de caracteres na descrição (eixo X) com o número de revisões (eixo Y). A linha de tendência horizontal denota uma correlação muito fraca, indicando que uma descrição detalhada não resulta em mais revisões.
+O gráfico de dispersão relaciona o número de caracteres na descrição (eixo X) com o número de revisões (eixo Y). A linha de tendência indica que uma descrição detalhada resulta em menos revisões.
 
 ---
 
@@ -175,7 +175,7 @@ O gráfico de dispersão relaciona o número de caracteres na descrição (eixo 
 ![Gráfico para RQ08](./graficos/GraficoRQ8.jpeg)
 
 **Resposta:**
-Foi identificada uma correlação positiva, ainda que fraca, entre o número de interações (comentários) e a quantidade de revisões formais em um Pull Request.
+Foi identificado que PRs com mais comentários sofrem menos revisões do que aqueles ocm menos comentários.
 
 **Análise:**
-Diferentemente das métricas anteriores, a linha de tendência neste gráfico exibe uma inclinação sutil e positiva. Isso indica que um aumento no número de comentários está ligeiramente associado a um aumento no número de revisões, possivelmente porque PRs mais debatidos atraem mais atenção da equipe.
+A linha de tendência neste gráfico exibe uma inclinação, o que indica que um aumento no número de comentários está  associado a uma diminuição no número de revisões, possivelmente porque PRs mais debatidos geram menos retrabalho.
