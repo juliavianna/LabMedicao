@@ -3,6 +3,34 @@
 *Autores:* Leandra Ramos e Júlia Vidal
 *Data:* 16 de outubro de 2025
 
+
+
+
+## Sumário
+
+* [Introdução](#introdução)
+* [Metodologia](#metodologia)
+* [Resultados](#resultados)
+    * [RQ 01. Relação entre Tamanho e Feedback Final](#rq-01-qual-a-relação-entre-o-tamanho-dos-prs-e-o-feedback-final-das-revisões)
+    * [RQ 02. Relação entre Tempo de Análise e Feedback Final](#rq-02-qual-a-relação-entre-o-tempo-de-análise-dos-prs-e-o-feedback-final-das-revisões)
+    * [RQ 03. Relação entre Descrição e Feedback Final](#rq-03-qual-a-relação-entre-a-descrição-dos-prs-e-o-feedback-final-das-revisões)
+    * [RQ 04. Relação entre Interações e Feedback Final](#rq-04-qual-a-relação-entre-as-interações-nos-prs-e-o-feedback-final-das-revisões)
+    * [RQ 05. Relação entre Tamanho e Número de Revisões](#rq-05-qual-a-relação-entre-o-tamanho-dos-prs-e-o-número-de-revisões-realizadas)
+    * [RQ 06. Relação entre Tempo de Análise e Número de Revisões](#rq-06-qual-a-relação-entre-o-tempo-de-análise-dos-prs-e-o-número-de-revisões-realizadas)
+    * [RQ 07. Relação entre Descrição e Número de Revisões](#rq-07-qual-a-relação-entre-a-descrição-dos-prs-e-o-número-de-revisões-realizadas)
+    * [RQ 08. Relação entre Interações e Número de Revisões](#rq-08-qual-a-relação-entre-as-interações-nos-prs-e-o-número-de-revisões-realizadas)
+* [Conclusão](#conclusão)
+* [Limitações do Estudo](#limitações-do-estudo)
+* [Trabalhos Futuros](#trabalhos-futuros)
+
+---
+
+
+
+
+
+
+
 ## 1. Introdução
 
 A prática de code review tornou-se uma constante nos processos de desenvolvimento ágeis. Em essência, consiste na interação entre desenvolvedores e revisores para inspecionar o código produzido antes de integrá-lo à base principal, visando garantir a qualidade e evitar a inclusão de defeitos.
